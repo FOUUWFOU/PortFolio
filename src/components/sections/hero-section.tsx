@@ -2,7 +2,6 @@ import { Button } from "@/components/ui/button";
 import { FileText } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import profileImage from "../../app/images/profilepic.png";
 import ProFileImage from "../../app/images/ProfilePic.jpeg";
 
 export default function HeroSection() {

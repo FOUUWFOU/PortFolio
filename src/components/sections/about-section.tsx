@@ -27,7 +27,7 @@ import {
   Flame,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
-import profilePic from "../../app/images/ProfilePic.jpeg";
+import profilePic from "../../app/images/profilepic2.jpeg";
 import hsclogo from "../../app/images/KBPlogo.png";
 import sppulogo from "../../app/images/sppulogo.png";
 import aresslogo from "../../app/images/aresslogo.jpeg";

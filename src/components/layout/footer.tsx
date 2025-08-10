@@ -41,21 +41,21 @@ export default function Footer() {
         </p>
         <div className="flex items-center gap-4">
           <SocialLink
-            href="https://x.com/shri47069182"
+            href="https://x.com/aarti_sang10943"
             target="_blank"
             aria-label="Twitter profile"
           >
             <Twitter className="h-8 w-8 text-muted-foreground transition-colors hover:text-foreground" />
           </SocialLink>
           <SocialLink
-            href="https://www.linkedin.com/in/dipak-patil-aab288221/"
+            href="https://www.linkedin.com/in/aarti-sangale-6a7074224/"
             target="_blank"
             aria-label="LinkedIn profile"
           >
             <Linkedin className="h-8 w-8 text-muted-foreground transition-colors hover:text-foreground" />
           </SocialLink>
           <SocialLink
-            href="https://github.com/DipakPatil007"
+            href="https://github.com/FOUUWFOU"
             target="_blank"
             aria-label="GitHub profile"
           >
