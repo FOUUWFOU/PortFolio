@@ -45,14 +45,6 @@ export default function HeroSection() {
               className="mt-10 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4 animate-fadeInUp"
               style={{ animationDelay: "1s" }}
             >
-              <Link href="#projects" passHref>
-                <Button
-                  size="lg"
-                  className="w-full sm:w-auto bg-accent hover:bg-accent/90 text-accent-foreground shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-300"
-                >
-                  View My Work
-                </Button>
-              </Link>
               <Link
                 href="https://drive.google.com/file/d/1HT67xMcq2DQrugEay-OdxN0jWbnbgUb6/view"
                 target="_blank"
