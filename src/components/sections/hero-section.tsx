@@ -54,7 +54,7 @@ export default function HeroSection() {
                 </Button>
               </Link>
               <Link
-                href="https://drive.google.com/file/d/1mgQ_jdXBYKpB7DSTlrDTIGBOe_VWXE2V/view"
+                href="https://drive.google.com/file/d/1HT67xMcq2DQrugEay-OdxN0jWbnbgUb6/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 passHref
